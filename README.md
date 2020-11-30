@@ -1,1 +1,1 @@
-Данная библиотека является частью проекта [Yandex Checkout Payments](https://kassa.yandex.ru/developers/payment-forms/ios-sdk).
+Данная библиотека является частью проекта [YooKassa Payments](https://github.com/yoomoney/yookassa-payments-swift).
